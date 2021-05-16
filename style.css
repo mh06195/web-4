@@ -1,0 +1,22 @@
+
+h1 {font-size : 250%;}
+h2 {font-size : 40px;}
+p {font-size : 2em;}
+
+<p id="thick">
+
+p#thicker {font-weight : 100;}
+
+p#normal {font-style : normal;}
+
+
+
+<style>
+   .saw { color: red; }
+     p { color: pink; }
+</style>
+
+
+body { font-family : '궁서체'}
+
+
